@@ -2,25 +2,19 @@
   margin: 20px;
 }
 .List2 {
-  display: flex;
-  margin: 20px;
+  /* display: flex; */
+  margin: 10px;
   border: 1px solid black;
+  border-radius: 10px;
+  text-align: center;
+  padding: 18px;
 }
 .List2 p {
   margin: 20px;
   font-weight: 400;
+  font-size: large;
 }
 .insidedata {
   margin: 20px;
   font-weight: 400;
-}
-.grid {
-  display: grid;
-  max-width: 120rem;
-  grid-template-columns: 1fr 1fr 1fr;
-  gap: 1.6rem;
-}
-.card {
-  padding: 2em;
-  border: 1px solid black;
 }
